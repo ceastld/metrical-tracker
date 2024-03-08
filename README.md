@@ -96,4 +96,4 @@ pip install torch==2.0.1 torchvision==0.15.2
 pip install -r requirements.txt
 ```
 
-当前直接使用 adgs 的环境
+当前可以直接使用 adgs 的环境
