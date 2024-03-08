@@ -1,0 +1,17 @@
+numpy
+tqdm
+tensorboard
+scipy
+chumpy
+fvcore
+iopath
+
+# flashavatar
+scikit-image
+opencv-python
+
+# mica tracking
+loguru
+trimesh
+mediapipe
+face_alignment
