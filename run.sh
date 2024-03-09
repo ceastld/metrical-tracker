@@ -1,0 +1,1 @@
+python tracker.py --cfg ./configs/actors/obama.yml
