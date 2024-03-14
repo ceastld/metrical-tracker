@@ -1,0 +1,6 @@
+actor: ./input/obama29
+begin_frames: 1
+keyframes: [0, 1]
+optimize_jaw: true
+optimize_shape: true
+save_folder: ./output/
